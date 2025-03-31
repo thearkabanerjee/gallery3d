@@ -34,6 +34,8 @@
         rotateY(calc( (var(--position) - 1) * (360 / var(--quantity)) * 1deg))
         translateZ(550px);
     cursor: pointer;
+    text-decoration: none;
+    display: block;
 }
 .banner .slider .item img{
     width: 100%;
