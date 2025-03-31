@@ -1,4 +1,6 @@
 # Gallery3D
+## 📷 Screenshots
+![Gallery3D Screenshot](images/demo.png)
 
 A web-based 3D image gallery built using modern web technologies. This interactive gallery allows users to explore images in a 3D environment, providing an immersive viewing experience.
 
@@ -47,8 +49,6 @@ To deploy the project to Vercel, follow these steps:
    vercel
    ```
 
-## 📷 Screenshots
-![Gallery3D Screenshot](images/demo.png)
 
 ## 📜 License
 This project is licensed under the MIT License.
